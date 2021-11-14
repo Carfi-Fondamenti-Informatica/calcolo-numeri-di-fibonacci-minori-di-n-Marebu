@@ -13,4 +13,5 @@ int main() {
       cout<<c<<endl;
       c=a+b;
    }
-   
+return0;
+}
